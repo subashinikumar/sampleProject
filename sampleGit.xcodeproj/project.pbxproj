@@ -39,20 +39,20 @@
 		E0C4AC111403853500123C33 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E0C4AC131403853500123C33 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E0C4AC151403853500123C33 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		E0C4AC191403853500123C33 /* sampleGit-Info.plist */ = {isa = PBXFileReference; path = "sampleGit-Info.plist"; sourceTree = "<group>"; };
+		E0C4AC191403853500123C33 /* sampleGit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "sampleGit-Info.plist"; sourceTree = "<group>"; };
 		E0C4AC1B1403853500123C33 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		E0C4AC1D1403853500123C33 /* sampleGit-Prefix.pch */ = {isa = PBXFileReference; path = "sampleGit-Prefix.pch"; sourceTree = "<group>"; };
+		E0C4AC1D1403853500123C33 /* sampleGit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "sampleGit-Prefix.pch"; sourceTree = "<group>"; };
 		E0C4AC1E1403853500123C33 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E0C4AC201403853500123C33 /* sampleGitAppDelegate.h */ = {isa = PBXFileReference; path = sampleGitAppDelegate.h; sourceTree = "<group>"; };
+		E0C4AC201403853500123C33 /* sampleGitAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sampleGitAppDelegate.h; sourceTree = "<group>"; };
 		E0C4AC211403853500123C33 /* sampleGitAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sampleGitAppDelegate.m; sourceTree = "<group>"; };
 		E0C4AC241403853500123C33 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		E0C4AC261403853500123C33 /* sampleGitViewController.h */ = {isa = PBXFileReference; path = sampleGitViewController.h; sourceTree = "<group>"; };
+		E0C4AC261403853500123C33 /* sampleGitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sampleGitViewController.h; sourceTree = "<group>"; };
 		E0C4AC271403853600123C33 /* sampleGitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sampleGitViewController.m; sourceTree = "<group>"; };
 		E0C4AC2A1403853600123C33 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/sampleGitViewController.xib; sourceTree = "<group>"; };
 		E0C4AC311403853600123C33 /* sampleGitTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleGitTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E0C4AC391403853600123C33 /* sampleGitTests-Info.plist */ = {isa = PBXFileReference; path = "sampleGitTests-Info.plist"; sourceTree = "<group>"; };
+		E0C4AC391403853600123C33 /* sampleGitTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "sampleGitTests-Info.plist"; sourceTree = "<group>"; };
 		E0C4AC3B1403853600123C33 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		E0C4AC3D1403853600123C33 /* sampleGitTests-Prefix.pch */ = {isa = PBXFileReference; path = "sampleGitTests-Prefix.pch"; sourceTree = "<group>"; };
+		E0C4AC3D1403853600123C33 /* sampleGitTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "sampleGitTests-Prefix.pch"; sourceTree = "<group>"; };
 		E0C4AC3E1403853600123C33 /* sampleGitTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sampleGitTests.h; sourceTree = "<group>"; };
 		E0C4AC401403853600123C33 /* sampleGitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sampleGitTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
