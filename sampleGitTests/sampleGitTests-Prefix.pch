@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'sampleGitTests' target in the 'sampleGitTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
