@@ -23,7 +23,7 @@
      
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
-    NSLog(@"git");
+    NSLog(@"git"); //push
     return YES;
 }
 
